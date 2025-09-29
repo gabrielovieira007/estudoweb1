@@ -1,0 +1,26 @@
+p{
+    color: blue;
+}
+h1{
+    color: brown;
+}
+#mesmo{
+    text-align: center;
+    color: black;
+}
+/* seletores de classe*/
+.myclass{
+    border: 0.2em ridge pink ;
+
+}
+/* junção de seletores */
+li.myclass{
+    font-size: xx-large;
+}
+.newclass{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.teste-cores{
+    padding: 2%;
+    background-color: rgba(255,255,255, 0.50);
+}

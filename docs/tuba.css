@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(251, 255, 7);
+}
+
+.container{
+    display: flex;
+}
+
+
+
+.menu{
+    background-color: crimson;
+    padding: 1rem;
+    margin-right: 1rem;
+}
+
+.conteudo{
+    padding: 2rem;
+    width: 70%;
+}
+
+.item-menu{
+    padding: 1rem;
+    margin: 0rem 0rem 0rem 0rem;
+}
+
+.item-menu:hover{
+    background-color: darkslategray;
+}
+
+ul{
+    list-style: none;
+}
+#sec1{
+    background-color: brown;
+}
